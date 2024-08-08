@@ -1,4 +1,8 @@
---Bookstore
+* Bookstore
+
+
+
+
 This repository contains SQL scripts designed to manage a simple bookstore database. The database comprises two primary tables: Authors and Books. These tables are used to store information about various authors and their corresponding books. The database also includes several queries that allow you to retrieve specific data, such as the number of books written by each author or the total number of books according to nationality.
 
 Database Structure
